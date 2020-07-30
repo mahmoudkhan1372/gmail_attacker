@@ -1,12 +1,12 @@
 #!/usr/bin/python
-'''coded by ayoub sirai'''
+'''coded by haj mahmoud'''
 
 import smtplib
 from os import system
 
 def main():
    print '================================================='
-   print '               coded by ayoub sirai              '
+   print '               coded by haj mahmoud              '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
